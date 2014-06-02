@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -25,6 +25,7 @@ end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.1'
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
